@@ -1,0 +1,79 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.5.2 Chrome/142.0.7444.265 Electron/39.6.1 Safari/537.36" version="29.5.2">
+  <diagram name="Página-1" id="04Ws8pWJazwt7mGYRurc">
+    <mxGraphModel dx="1426" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nRDkyPamxldtXTYNfcFC-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Fluxograma que calcule e retorne IMC" vertex="1">
+          <mxGeometry height="30" width="210" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-6" edge="1" parent="1" source="nRDkyPamxldtXTYNfcFC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nRDkyPamxldtXTYNfcFC-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Calc IMC (peso, altura)" vertex="1">
+          <mxGeometry height="70" width="140" x="620" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-7" edge="1" parent="1" source="nRDkyPamxldtXTYNfcFC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nRDkyPamxldtXTYNfcFC-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="IMC = peso/altura**2" vertex="1">
+          <mxGeometry height="40" width="140" x="620" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Return IMC" vertex="1">
+          <mxGeometry height="70" width="140" x="620" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-19" edge="1" parent="1" source="nRDkyPamxldtXTYNfcFC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nRDkyPamxldtXTYNfcFC-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Inicio&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="120" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="&lt;div&gt;&amp;nbsp;fim&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="115" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-21" edge="1" parent="1" source="nRDkyPamxldtXTYNfcFC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nRDkyPamxldtXTYNfcFC-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-11" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.09090909090909091;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="60" width="220" x="60" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="x= calcIMC( 100,1.9)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="130" x="100" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="&#39;Digite o peso&#39;" vertex="1">
+          <mxGeometry height="60" width="100" x="120" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-26" edge="1" parent="1" source="nRDkyPamxldtXTYNfcFC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nRDkyPamxldtXTYNfcFC-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="&#39;Digite o altura&#39;" vertex="1">
+          <mxGeometry height="60" width="100" x="117.5" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-24" edge="1" parent="1" source="nRDkyPamxldtXTYNfcFC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nRDkyPamxldtXTYNfcFC-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-15" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="Peso(real)" vertex="1">
+          <mxGeometry height="60" width="100" x="117.5" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-27" edge="1" parent="1" source="nRDkyPamxldtXTYNfcFC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nRDkyPamxldtXTYNfcFC-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-16" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="altura(real)" vertex="1">
+          <mxGeometry height="60" width="100" x="115" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-28" edge="1" parent="1" source="nRDkyPamxldtXTYNfcFC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nRDkyPamxldtXTYNfcFC-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-17" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.09090909090909091;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="60" width="220" x="55" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="x= calcIMC( peso,altura)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="145" x="92.5" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="nRDkyPamxldtXTYNfcFC-22" edge="1" parent="1" source="nRDkyPamxldtXTYNfcFC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" target="nRDkyPamxldtXTYNfcFC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,73 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.5.2 Chrome/142.0.7444.265 Electron/39.6.1 Safari/537.36" version="29.5.2">
+  <diagram name="Página-1" id="esgKLtQq3NRqmljkFHXL">
+    <mxGraphModel dx="1426" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-9" edge="1" parent="1" source="wRQ-zU5aPXPKZ-AvFpIb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wRQ-zU5aPXPKZ-AvFpIb-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="inicio" vertex="1">
+          <mxGeometry height="60" width="100" x="100" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="saida" vertex="1">
+          <mxGeometry height="60" width="100" x="100" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-11" edge="1" parent="1" source="wRQ-zU5aPXPKZ-AvFpIb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wRQ-zU5aPXPKZ-AvFpIb-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-3" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="num 1 (int)" vertex="1">
+          <mxGeometry height="60" width="100" x="100" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-13" edge="1" parent="1" source="wRQ-zU5aPXPKZ-AvFpIb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wRQ-zU5aPXPKZ-AvFpIb-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-4" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="num 2 (int)" vertex="1">
+          <mxGeometry height="60" width="100" x="100" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-14" edge="1" parent="1" source="wRQ-zU5aPXPKZ-AvFpIb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wRQ-zU5aPXPKZ-AvFpIb-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="num 1 + num 2" vertex="1">
+          <mxGeometry height="60" width="100" x="100" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-10" edge="1" parent="1" source="wRQ-zU5aPXPKZ-AvFpIb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wRQ-zU5aPXPKZ-AvFpIb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="&#39;digite numero 1&#39;" vertex="1">
+          <mxGeometry height="60" width="100" x="100" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-12" edge="1" parent="1" source="wRQ-zU5aPXPKZ-AvFpIb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wRQ-zU5aPXPKZ-AvFpIb-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="&#39;digite numero 2&#39;" vertex="1">
+          <mxGeometry height="60" width="100" x="100" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-15" edge="1" parent="1" source="wRQ-zU5aPXPKZ-AvFpIb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wRQ-zU5aPXPKZ-AvFpIb-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="soma" vertex="1">
+          <mxGeometry height="60" width="100" x="100" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="print (&quot;Digite um número:&quot;)" vertex="1">
+          <mxGeometry height="30" width="170" x="310" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="num 1 = int(input())" vertex="1">
+          <mxGeometry height="30" width="130" x="340" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="print (&quot;Digite outro número:&quot;)" vertex="1">
+          <mxGeometry height="30" width="170" x="329" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="num 2 = int(input())" vertex="1">
+          <mxGeometry height="30" width="130" x="340" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="soma = num 1 + num 2" vertex="1">
+          <mxGeometry height="30" width="160" x="320" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="wRQ-zU5aPXPKZ-AvFpIb-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="print (&quot;resultado:&quot;, soma)" vertex="1">
+          <mxGeometry height="30" width="170" x="320" y="625" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
