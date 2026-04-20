@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b89c4d7a-fb04-41b8-8be9-54ed0dba3e8b" name="Changes" comment="tipos de variáveis" />
+    <list default="true" id="b89c4d7a-fb04-41b8-8be9-54ed0dba3e8b" name="Changes" comment="Inicio da faculdade">
+      <change afterPath="$PROJECT_DIR$/Linguagem da programação/Python/Repeat...Until.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linguagem da programação/Python/Resolver problema em Break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linguagem da programação/Python/horas em Laços Aninhados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="26" />
+    <option name="cachedIndexableFilesCount" value="38" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,18 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "oRuiva"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;oRuiva&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/oRuiva/information-system-1-of-8.git",
-    "accountId": "a441b96c-f5a9-49c3-b098-f493f5981261"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/oRuiva/information-system-1-of-8.git&quot;,
+    &quot;accountId&quot;: &quot;a441b96c-f5a9-49c3-b098-f493f5981261&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -55,6 +60,9 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Laços Aninhados.executor": "Run",
+    "Python.Repeat...Until.executor": "Run",
+    "Python.Resolver problema em Break.executor": "Run",
     "Python.Variável Flag Booleana.executor": "Run",
     "Python.Variável acumuladora.executor": "Run",
     "Python.estrutura de repetição while.executor": "Run",
@@ -63,6 +71,7 @@
     "Python.variável flag booleana.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -94,7 +103,8 @@
       <updated>1776101485806</updated>
       <workItem from="1776101486842" duration="2269000" />
       <workItem from="1776103776368" duration="115000" />
-      <workItem from="1776103899748" duration="1180000" />
+      <workItem from="1776103899748" duration="1621000" />
+      <workItem from="1776690590646" duration="5938000" />
     </task>
     <task id="LOCAL-00001" summary="tipos de variáveis">
       <option name="closed" value="true" />
@@ -120,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776104791480</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Inicio da faculdade">
+      <option name="closed" value="true" />
+      <created>1776105131802</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776105131802</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,13 +169,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tipos de variáveis" />
-    <option name="LAST_COMMIT_MESSAGE" value="tipos de variáveis" />
+    <MESSAGE value="Inicio da faculdade" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicio da faculdade" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Faculdade$estrutura_de_repetição_while.coverage" NAME="estrutura de repetição while Coverage Results" MODIFIED="1776101951438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$variável_acumuladora.coverage" NAME="variável acumuladora Coverage Results" MODIFIED="1776104407486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
+    <SUITE FILE_PATH="coverage/Faculdade$Laços_Aninhados.coverage" NAME="Laços Aninhados Coverage Results" MODIFIED="1776696179513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$Variável_Flag_Booleana.coverage" NAME="Variável Flag Booleana Coverage Results" MODIFIED="1776102689098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$Variável_acumuladora.coverage" NAME="Variável acumuladora Coverage Results" MODIFIED="1776102326028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
+    <SUITE FILE_PATH="coverage/Faculdade$Repeat___Until.coverage" NAME="Repeat...Until Coverage Results" MODIFIED="1776692801695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
+    <SUITE FILE_PATH="coverage/Faculdade$Resolver_problema_em_Break.coverage" NAME="Resolver problema em Break Coverage Results" MODIFIED="1776691451892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$variável_contadora.coverage" NAME="variável contadora Coverage Results" MODIFIED="1776104178427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$variável_flag_booleana.coverage" NAME="variável flag booleana Coverage Results" MODIFIED="1776104698222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
   </component>
