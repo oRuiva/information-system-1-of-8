@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b89c4d7a-fb04-41b8-8be9-54ed0dba3e8b" name="Changes" comment="Comando break Resolver problema em Break.py&#10;simulando Repeat...Until.py&#10;laços aninhados em horas em Laços Aninhados.py">
-      <change afterPath="$PROJECT_DIR$/Linguagem da programação/Python/laço for - dias da semana.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linguagem da programação/Python/laço for - sequencia crescente pares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linguagem da programação/Python/laço for - sequencia crescente.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linguagem da programação/Python/laço for - sequencia decrescente.py" afterDir="false" />
+    <list default="true" id="b89c4d7a-fb04-41b8-8be9-54ed0dba3e8b" name="Changes" comment="laços for, com principais sequencias do python (string, listas, tuplas, intervalo)">
+      <change afterPath="$PROJECT_DIR$/Linguagem da programação/Python/Leitura de fluxograma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linguagem da programação/Python/contagem prova.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linguagem da programação/Python/outro fluxograma da prova.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="38" />
+    <option name="cachedIndexableFilesCount" value="52" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,15 +61,18 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Laços Aninhados.executor": "Run",
+    "Python.Leitura de fluxograma.executor": "Run",
     "Python.Repeat...Until.executor": "Run",
     "Python.Resolver problema em Break.executor": "Run",
     "Python.Variável Flag Booleana.executor": "Run",
     "Python.Variável acumuladora.executor": "Run",
+    "Python.contagem prova.executor": "Run",
     "Python.estrutura de repetição while.executor": "Run",
     "Python.laço for - dias da semana.executor": "Run",
     "Python.laço for - sequencia crescente pares.executor": "Run",
     "Python.laço for - sequencia crescente.executor": "Run",
     "Python.laço for - sequencia decrescente.executor": "Run",
+    "Python.outro fluxograma da prova.executor": "Run",
     "Python.variável acumuladora.executor": "Run",
     "Python.variável contadora.executor": "Run",
     "Python.variável flag booleana.executor": "Run",
@@ -110,7 +112,9 @@
       <workItem from="1776103776368" duration="115000" />
       <workItem from="1776103899748" duration="1621000" />
       <workItem from="1776690590646" duration="6706000" />
-      <workItem from="1776862810540" duration="1327000" />
+      <workItem from="1776862810540" duration="1948000" />
+      <workItem from="1776952702470" duration="13000" />
+      <workItem from="1776952814392" duration="3026000" />
     </task>
     <task id="LOCAL-00001" summary="tipos de variáveis">
       <option name="closed" value="true" />
@@ -152,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776696658132</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="laços for, com principais sequencias do python (string, listas, tuplas, intervalo)">
+      <option name="closed" value="true" />
+      <created>1776864217620</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776864217620</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,21 +197,25 @@
     <MESSAGE value="tipos de variáveis" />
     <MESSAGE value="Inicio da faculdade" />
     <MESSAGE value="Comando break Resolver problema em Break.py&#10;simulando Repeat...Until.py&#10;laços aninhados em horas em Laços Aninhados.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comando break Resolver problema em Break.py&#10;simulando Repeat...Until.py&#10;laços aninhados em horas em Laços Aninhados.py" />
+    <MESSAGE value="laços for, com principais sequencias do python (string, listas, tuplas, intervalo)" />
+    <option name="LAST_COMMIT_MESSAGE" value="laços for, com principais sequencias do python (string, listas, tuplas, intervalo)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Faculdade$estrutura_de_repetição_while.coverage" NAME="estrutura de repetição while Coverage Results" MODIFIED="1776101951438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$Laços_Aninhados.coverage" NAME="Laços Aninhados Coverage Results" MODIFIED="1776696179513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$Variável_Flag_Booleana.coverage" NAME="Variável Flag Booleana Coverage Results" MODIFIED="1776102689098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$laço_for___sequencia_decrescente.coverage" NAME="laço for - sequencia decrescente Coverage Results" MODIFIED="1776863573199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
+    <SUITE FILE_PATH="coverage/Faculdade$contagem_prova.coverage" NAME="contagem prova Coverage Results" MODIFIED="1776954599619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$laço_for___sequencia_crescente_pares.coverage" NAME="laço for - sequencia crescente pares Coverage Results" MODIFIED="1776863258958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$Resolver_problema_em_Break.coverage" NAME="Resolver problema em Break Coverage Results" MODIFIED="1776691451892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$variável_contadora.coverage" NAME="variável contadora Coverage Results" MODIFIED="1776104178427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$laço_for___sequencia_crescente.coverage" NAME="laço for - sequencia crescente Coverage Results" MODIFIED="1776863070289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$variável_flag_booleana.coverage" NAME="variável flag booleana Coverage Results" MODIFIED="1776104698222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
-    <SUITE FILE_PATH="coverage/Faculdade$variável_acumuladora.coverage" NAME="variável acumuladora Coverage Results" MODIFIED="1776104407486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
+    <SUITE FILE_PATH="coverage/Faculdade$outro_fluxograma_da_prova.coverage" NAME="outro fluxograma da prova Coverage Results" MODIFIED="1776955077624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
+    <SUITE FILE_PATH="coverage/Faculdade$variável_acumuladora.coverage" NAME="variável acumuladora Coverage Results" MODIFIED="1776954626135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$Variável_acumuladora.coverage" NAME="Variável acumuladora Coverage Results" MODIFIED="1776102326028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$Repeat___Until.coverage" NAME="Repeat...Until Coverage Results" MODIFIED="1776692801695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$laço_for___dias_da_semana.coverage" NAME="laço for - dias da semana Coverage Results" MODIFIED="1776863852295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
+    <SUITE FILE_PATH="coverage/Faculdade$Leitura_de_fluxograma.coverage" NAME="Leitura de fluxograma Coverage Results" MODIFIED="1776953209729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
   </component>
 </project>
