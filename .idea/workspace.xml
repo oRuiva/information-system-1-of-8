@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b89c4d7a-fb04-41b8-8be9-54ed0dba3e8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas/Estrutura tabuada input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas/estrutura encadeada input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b89c4d7a-fb04-41b8-8be9-54ed0dba3e8b" name="Changes" comment="Estruturas Encadeadas">
+      <change afterPath="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas/Fogo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas/bom dia, tarde, noite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas/bubble_soft CA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas/enigma e exibe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas/mediap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas/misterio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas/posição.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="59" />
+    <option name="cachedIndexableFilesCount" value="66" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,21 +61,29 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.AC.executor": "Run",
     "Python.Estrutura repetição encadeada.executor": "Run",
+    "Python.Estrutura tabuada input.executor": "Run",
+    "Python.Fogo.executor": "Run",
     "Python.Laços Aninhados.executor": "Run",
     "Python.Leitura de fluxograma.executor": "Run",
     "Python.Repeat...Until.executor": "Run",
     "Python.Resolver problema em Break.executor": "Run",
     "Python.Variável Flag Booleana.executor": "Run",
     "Python.Variável acumuladora.executor": "Run",
+    "Python.bubble_soft CA.executor": "Run",
     "Python.contagem prova.executor": "Run",
+    "Python.enigma e exibe.executor": "Run",
     "Python.estrutura de repetição while.executor": "Run",
     "Python.estrutura encadeada input.executor": "Run",
     "Python.laço for - dias da semana.executor": "Run",
     "Python.laço for - sequencia crescente pares.executor": "Run",
     "Python.laço for - sequencia crescente.executor": "Run",
     "Python.laço for - sequencia decrescente.executor": "Run",
+    "Python.mediap.executor": "Run",
+    "Python.misterio.executor": "Run",
     "Python.outro fluxograma da prova.executor": "Run",
+    "Python.posição.executor": "Run",
     "Python.variável acumuladora.executor": "Run",
     "Python.variável contadora.executor": "Run",
     "Python.variável flag booleana.executor": "Run",
@@ -120,7 +132,10 @@
       <workItem from="1778697889586" duration="1465000" />
       <workItem from="1778699649873" duration="11000" />
       <workItem from="1778763694943" duration="611000" />
-      <workItem from="1779201173747" duration="770000" />
+      <workItem from="1779201173747" duration="1110000" />
+      <workItem from="1779280816850" duration="15000" />
+      <workItem from="1779372634220" duration="91000" />
+      <workItem from="1779905393286" duration="2720000" />
     </task>
     <task id="LOCAL-00001" summary="tipos de variáveis">
       <option name="closed" value="true" />
@@ -178,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776967357771</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Estruturas Encadeadas">
+      <option name="closed" value="true" />
+      <created>1779202231720</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1779202231720</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,25 +236,34 @@
     <MESSAGE value="Comando break Resolver problema em Break.py&#10;simulando Repeat...Until.py&#10;laços aninhados em horas em Laços Aninhados.py" />
     <MESSAGE value="laços for, com principais sequencias do python (string, listas, tuplas, intervalo)" />
     <MESSAGE value="questões de prova que eu tive" />
-    <option name="LAST_COMMIT_MESSAGE" value="questões de prova que eu tive" />
+    <MESSAGE value="Estruturas Encadeadas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estruturas Encadeadas" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Faculdade$Laços_Aninhados.coverage" NAME="Laços Aninhados Coverage Results" MODIFIED="1776696179513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
-    <SUITE FILE_PATH="coverage/Faculdade$outro_fluxograma_da_prova.coverage" NAME="outro fluxograma da prova Coverage Results" MODIFIED="1776955077624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
+    <SUITE FILE_PATH="coverage/Faculdade$bubble_soft_CA.coverage" NAME="bubble_soft CA Coverage Results" MODIFIED="1779907192365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas" />
     <SUITE FILE_PATH="coverage/Faculdade$variável_contadora.coverage" NAME="variável contadora Coverage Results" MODIFIED="1776104178427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$variável_acumuladora.coverage" NAME="variável acumuladora Coverage Results" MODIFIED="1776954626135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
+    <SUITE FILE_PATH="coverage/Faculdade$mediap.coverage" NAME="mediap Coverage Results" MODIFIED="1779907583447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas" />
+    <SUITE FILE_PATH="coverage/Faculdade$AC.coverage" NAME="AC Coverage Results" MODIFIED="1779905911100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas" />
+    <SUITE FILE_PATH="coverage/Faculdade$posição.coverage" NAME="posição Coverage Results" MODIFIED="1779907755751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas" />
+    <SUITE FILE_PATH="coverage/Faculdade$Variável_Flag_Booleana.coverage" NAME="Variável Flag Booleana Coverage Results" MODIFIED="1776102689098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
+    <SUITE FILE_PATH="coverage/Faculdade$Repeat___Until.coverage" NAME="Repeat...Until Coverage Results" MODIFIED="1776692801695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
+    <SUITE FILE_PATH="coverage/Faculdade$misterio.coverage" NAME="misterio Coverage Results" MODIFIED="1779906490157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas" />
+    <SUITE FILE_PATH="coverage/Faculdade$enigma_e_exibe.coverage" NAME="enigma e exibe Coverage Results" MODIFIED="1779906693686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas" />
+    <SUITE FILE_PATH="coverage/Faculdade$Leitura_de_fluxograma.coverage" NAME="Leitura de fluxograma Coverage Results" MODIFIED="1776953209729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
+    <SUITE FILE_PATH="coverage/Faculdade$estrutura_encadeada_input.coverage" NAME="estrutura encadeada input Coverage Results" MODIFIED="1779372674816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas" />
+    <SUITE FILE_PATH="coverage/Faculdade$outro_fluxograma_da_prova.coverage" NAME="outro fluxograma da prova Coverage Results" MODIFIED="1776955077624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$contagem_prova.coverage" NAME="contagem prova Coverage Results" MODIFIED="1776954599619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$laço_for___sequencia_decrescente.coverage" NAME="laço for - sequencia decrescente Coverage Results" MODIFIED="1776863573199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
-    <SUITE FILE_PATH="coverage/Faculdade$Variável_Flag_Booleana.coverage" NAME="Variável Flag Booleana Coverage Results" MODIFIED="1776102689098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$laço_for___sequencia_crescente_pares.coverage" NAME="laço for - sequencia crescente pares Coverage Results" MODIFIED="1776863258958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$laço_for___dias_da_semana.coverage" NAME="laço for - dias da semana Coverage Results" MODIFIED="1776863852295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$Estrutura_repetição_encadeada.coverage" NAME="Estrutura repetição encadeada Coverage Results" MODIFIED="1779201714345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas" />
     <SUITE FILE_PATH="coverage/Faculdade$Variável_acumuladora.coverage" NAME="Variável acumuladora Coverage Results" MODIFIED="1776102326028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$variável_flag_booleana.coverage" NAME="variável flag booleana Coverage Results" MODIFIED="1776104698222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
-    <SUITE FILE_PATH="coverage/Faculdade$Repeat___Until.coverage" NAME="Repeat...Until Coverage Results" MODIFIED="1776692801695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
+    <SUITE FILE_PATH="coverage/Faculdade$Fogo.coverage" NAME="Fogo Coverage Results" MODIFIED="1779908103298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas" />
+    <SUITE FILE_PATH="coverage/Faculdade$Estrutura_tabuada_input.coverage" NAME="Estrutura tabuada input Coverage Results" MODIFIED="1779372660470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas" />
     <SUITE FILE_PATH="coverage/Faculdade$Resolver_problema_em_Break.coverage" NAME="Resolver problema em Break Coverage Results" MODIFIED="1776691451892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
-    <SUITE FILE_PATH="coverage/Faculdade$Leitura_de_fluxograma.coverage" NAME="Leitura de fluxograma Coverage Results" MODIFIED="1776953209729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
-    <SUITE FILE_PATH="coverage/Faculdade$estrutura_encadeada_input.coverage" NAME="estrutura encadeada input Coverage Results" MODIFIED="1779201905887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lógica da Programação/Programa dos diagramas" />
     <SUITE FILE_PATH="coverage/Faculdade$estrutura_de_repetição_while.coverage" NAME="estrutura de repetição while Coverage Results" MODIFIED="1776101951438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
     <SUITE FILE_PATH="coverage/Faculdade$laço_for___sequencia_crescente.coverage" NAME="laço for - sequencia crescente Coverage Results" MODIFIED="1776863070289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linguagem da programação/Python" />
   </component>
